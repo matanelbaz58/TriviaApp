@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "London",
+      "Madrid",
+      "Paris"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Galileo Galilei"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which is the largest mammal in the world?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "White Rhinoceros"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the tallest mountain above sea level?",
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which programming language is primarily used for Android development?",
+    "options": [
+      "Python",
+      "Kotlin",
+      "JavaScript",
+      "Ruby"
+    ],
+    "correctAnswerIndex":1
+  }
+]
